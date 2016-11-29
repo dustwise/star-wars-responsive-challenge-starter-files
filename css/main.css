@@ -1,0 +1,23 @@
+header {
+	background-color: orange;
+	margin-bottom: 40px;
+}
+header h1 {
+	margin-bottom: 0;
+}
+header p {
+	margin-top: 10px;
+}
+
+.char-image {
+	max-height: 100%;
+	max-width: 100%;	
+}
+.card {
+	border: 2px solid #e2e2e2;
+	margin-bottom: 20px;
+}
+.char-info {
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
